@@ -8,9 +8,9 @@ const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
     return (
         <nav className={styles.navbar}>
-            <a href='/'><img style={{ height: 50 }} src='/logo.png' /></a>
+            <a href='/'><img style={{ height: 50 }} src='/logoPurple.png' /></a>
             <div>
-                <a className={styles.title} href='/'>alx Portfolio</a>
+                <a className={styles.title} href='/'>Neostratify</a>
             </div>
             <div className={styles.menu}>
                 <img className={styles.menuBtn} 
