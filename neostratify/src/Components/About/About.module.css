@@ -89,7 +89,28 @@
 
     .aboutImage{
         display: block;
+        /* animation definition */
+        animation-name: floatinganime;
+        /* animation duration */
+        animation-duration: 3s;
+        /* number of times to run */
+        animation-iteration-count: infinite;
+        /* movement in keyframe */
+        animation-timing-function: ease-in-out;
     }
+
+
+    @keyframes floatinganime {
+        0% {
+            transform: translate(0, 0px);
+        }
+        50%{
+            transform: translate(0, 10px);
+        }
+        100%{
+            transform: translate(0, -0px);
+        }
+    } 
 
 
     .aboutItems{
