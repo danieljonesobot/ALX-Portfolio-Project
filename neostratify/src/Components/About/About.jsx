@@ -9,7 +9,7 @@ const About = () => {
         <div className={styles.content}>
             <img
             className={styles.aboutImage} 
-            src={getImageUrl('about/aboutImage.png')} 
+            src={getImageUrl('about/star.png')} 
             alt='About Image' 
             />
 
