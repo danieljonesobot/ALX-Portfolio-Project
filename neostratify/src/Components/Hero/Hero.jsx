@@ -8,8 +8,8 @@ const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Unlock the full potential of your business and stand out in an ever evolving world.</h1>
             <p className={styles.description}> 
-            We help small businesses establish strong brand recognition, boost online presence 
-            and drive growth through our comprehensive suite of services and innovative solutions.
+            We help businesses establish a strong brand identity, credibility, boost online presence 
+            and growth through our comprehensive suite of innovative solutions and business tool-kit.
             </p>
             <a className={styles.contactBtn} href='mailto:daniel.jonesobot@gmail.com'>Get in touch</a>
         </div>
