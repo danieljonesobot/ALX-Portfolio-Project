@@ -1,0 +1,44 @@
+[
+  {
+    "solution": "Business Solutions",
+    "experiences": [
+      "Name Search",
+      "Company Registration",
+      "Corporate Bank Account",
+      "Company Profile"
+    ],
+    "imageSrc": "history/register.png"
+  },
+  {
+    "solution": "Digital Solutions",
+    "experiences": [
+      "Domain Registration",
+      "Website Setup",
+      "Professional Email setup",
+      "Social media setup"
+    ],
+    "imageSrc": "history/code.gif"
+  },
+  {
+    "solution": "Strategic Planning",
+    "experiences": [
+      "Market Research",
+      "Business Modeling",
+      "Business Plan Writing",
+      "Pitch Deck",
+      "Financial Modeling"
+    ],
+    "imageSrc": "history/learn.gif"
+  },
+  {
+    "solution": "IT Solutions",
+    "experiences": [
+      "Call center implementation",
+      "Network Cabling (CAT6)",
+      "Internet connection",
+      "CCTV Installation",
+      "Home and Office Automation"
+    ],
+    "imageSrc": "history/digital.png"
+  }
+]
