@@ -1,5 +1,10 @@
 # Consulting and Business services website with React + Vite
 
+## About
+This is a simple project that focuses on developing and rendering the front-end of a website for a consulting business that offers a wide range of services to its customers. The goal of this project is to develop a modern, professional, user-friendly website that showcases the services offered and encourages visitors to engage with the business.
+
+
+
 ## Instructions
 To create and start your react app, please follow the instructions below:
 - npm create vite@latest
