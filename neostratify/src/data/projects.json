@@ -1,26 +1,26 @@
 [
   {
     "title": "TickTruck",
-    "imageSrc": "projects/tictruck.pg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/tictruck.png",
+    "description": "Lorem Aenean commodo eget dolor aenean massa ridiculus.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "service": "Strategic Planning"
   },
   {
     "title": "Kpajie Resources",
-    "imageSrc": "projects/kpajie.pg",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "imageSrc": "projects/kpajie.png",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "service": "Business Solution"
   },
   {
     "title": "Batfol",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Lorem ipsum Cum sociis natoque penatibus et magnis dis montes.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "service": "Business Solution"
   }
 ]
