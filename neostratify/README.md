@@ -7,7 +7,7 @@ This is a simple project that focuses on developing and rendering the front-end 
 
 ## Instructions
 To create and start your react app using vite, please follow the instructions below:
-- `npm create vite@latest`
+- run `npm create vite@latest`
 - ok or (Y) to proceed
 - {create project-folder}
 - framework
@@ -15,8 +15,9 @@ To create and start your react app using vite, please follow the instructions be
 - variant/language
 	- select Javascript
 - cd project-folder
-- `npm install`
-- `npm run dev`
+- run `npm install`
+- run `npm run dev`
+- run `npm run build` to push to production
 
 
 - You can specify a specific version of Vite by replacing 'latest' with your preferred version.
