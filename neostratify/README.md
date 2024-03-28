@@ -1,7 +1,7 @@
 # Consulting and Business services website with React + Vite
 
 ## About
-This is a simple project that focuses on developing and rendering the front-end of a website for a consulting business that offers a wide range of services to its customers. The goal of this project is to develop a modern, professional, user-friendly website that showcases the services offered and encourages visitors to engage with the business.
+This is a simple project that focuses on developing and rendering the front-end of a website for a consulting business that offers a wide range of services to its customers. The goal of this project is to develop a modern, professional, user-friendly and mobile-responsive website that showcases the services offered by the business while creating a great user experience for website visitors and propective clients.
 
 
 
