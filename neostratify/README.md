@@ -18,6 +18,7 @@ To create and start your react app using vite, please follow the instructions be
 - run `npm install`
 - run `npm run dev`
 - run `npm run build` to push to production
+- run `npm run preview` to view in local
 
 
 - You can specify a specific version of Vite by replacing 'latest' with your preferred version.
