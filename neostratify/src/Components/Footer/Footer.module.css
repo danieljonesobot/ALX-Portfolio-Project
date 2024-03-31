@@ -1,0 +1,19 @@
+@import "../../vars.css";
+
+
+.container{
+    color: var(--color-text);
+    background: var(--color-secondary);
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+
+.container p{
+    font-size: 18px;
+    font-weight: 600;
+}
