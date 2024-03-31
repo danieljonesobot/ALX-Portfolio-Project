@@ -25,7 +25,7 @@ const Contact = () => {
             src={getImageUrl("contact/whatsappIcon.png")}
             alt="WhatsApp Icon"
           />
-          <a href="mailto:info@neostratify.com.ng">Whatsapp</a>
+          <a href="https://wa.me/+2347067089407">Whatsapp</a>
         </li>
       </ul>
     </footer>
