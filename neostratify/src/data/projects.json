@@ -2,23 +2,23 @@
   {
     "title": "TickTruck",
     "imageSrc": "projects/tictruck.png",
-    "description": "Lorem Aenean commodo eget dolor aenean massa ridiculus.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Business and strategic planning for a digital logistics technology company",
+    "skills": ["Business plan", "Financial model", "Pitch deck"],
     "demo": "https://www.example.com",
     "service": "Strategic Planning"
   },
   {
     "title": "Kpajie Resources",
     "imageSrc": "projects/kpajie.png",
-    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Company registration, social media setup and digital marketing",
+    "skills": ["Business reg.", "Company profile", "Digital marketing"],
     "demo": "https://www.example.com",
     "service": "Business Solution"
   },
   {
     "title": "Batfol",
     "imageSrc": "projects/project.png",
-    "description": "Lorem ipsum Cum sociis natoque penatibus et magnis dis montes.",
+    "description": "Company profile design and branding",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "service": "Business Solution"
