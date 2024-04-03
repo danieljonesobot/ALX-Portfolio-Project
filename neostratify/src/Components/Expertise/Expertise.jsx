@@ -3,6 +3,7 @@ import techstack from "../../data/techstack.json";
 import history from "../../data/history.json";
 import { getImageUrl } from "../../utils";
 import styles from "./Expertise.module.css";
+import { Link } from "react-router-dom";
 
 const Expertise = () => {
   return (
@@ -42,6 +43,12 @@ const Expertise = () => {
             );
           })}
         </ul>
+      </div>
+
+      <div className={styles.contactBtnContainer}>
+        <Link to="/services" className={styles.contactBtn}>
+          Learn more
+        </Link>
       </div>
     </section>
   );

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./Navbar.module.css";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -40,8 +41,14 @@ const Navbar = () => {
             <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="#solutions">Solutions</a>
+            {/* <a href="#solutions">Services</a> */}
+            <Link to="/services">Solutions</Link>
           </li>
+
+          {/* <li>
+            <Link to="/testimonials">Testimonials</Link>
+          </li> */}
+
           <li>
             <a href="#contact">Contact</a>
           </li>

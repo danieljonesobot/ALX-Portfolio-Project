@@ -121,6 +121,33 @@
 }
 
 
+.contactBtn{
+    text-decoration: none;
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    border-radius: 100px;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 17px 26px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    width: 250px;
+    text-align: center;
+}
+
+
+
+.contactBtn:hover {
+    background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100% );
+}
+
+
+.contactBtnContainer{
+    display: flex;
+    margin: 5% 0;
+    align-items: flex-end;
+    justify-content: center;
+    height: 10vw;
+}
 
 
 @media screen and (max-width: 830px) {
