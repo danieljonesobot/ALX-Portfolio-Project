@@ -1,0 +1,33 @@
+@import "../vars.css";
+
+.container{
+    /* border: 1px solid white; */
+    color: var(--color-text);
+    background-color: var(--color-bg);
+    margin: 5% 10%;
+    padding: 2% 5%;
+    height: 700px;
+}
+
+
+
+
+.container div {
+    margin: 5% 0;
+}
+
+
+.topBlur{
+    position: absolute;
+    width: 10vw;
+    height: 10vw;
+    min-width: 350px;
+    min-height: 350px;
+    top: 200px;
+    left: 40vw;
+    /* border: 764px solid black; */
+    border-radius: 764px;
+    background: rgba(25, 55, 109, 0.7);
+    filter: blur(100px);
+    z-index: 0;
+}
