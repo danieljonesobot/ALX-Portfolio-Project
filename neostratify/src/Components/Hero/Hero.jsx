@@ -15,8 +15,11 @@ const Hero = () => {
           boost online presence and growth through our comprehensive suite of
           innovative solutions and business tool-kit.
         </p>
-        <a className={styles.contactBtn} href="mailto:info@neostratify.com.ng">
-          Get in touch
+        <a
+          className={styles.contactBtn}
+          href="https://calendly.com/daniel-jonesobot/30min"
+        >
+          Book a call
         </a>
       </div>
       <img
