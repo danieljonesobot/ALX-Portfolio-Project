@@ -18,6 +18,7 @@ const Hero = () => {
         <a
           className={styles.contactBtn}
           href="https://calendly.com/daniel-jonesobot/30min"
+          target="_blank"
         >
           Book a call
         </a>

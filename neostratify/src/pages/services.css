@@ -4,9 +4,9 @@
     /* border: 1px solid white; */
     color: var(--color-text);
     background-color: var(--color-bg);
-    margin: 5% 10%;
+    margin: 2% 10%;
     padding: 2% 5%;
-    height: 700px;
+    height: 300vh;
 }
 
 
@@ -30,4 +30,19 @@
     background: rgba(25, 55, 109, 0.7);
     filter: blur(100px);
     z-index: 0;
+}
+
+
+.solution ul{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   height: 200px;
+   margin: 1.75% 1.75%;
+   /* line-height: 1.75px; */
+}
+
+
+.solution ul > li {
+    gap: 5px;
 }

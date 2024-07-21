@@ -1,7 +1,7 @@
 [
   {
     "title": "TickTruck",
-    "imageSrc": "projects/tictruck.png",
+    "imageSrc": "projects/truck.png",
     "description": "Business and strategic planning for a digital logistics technology company",
     "skills": ["Business plan", "Financial model", "Pitch deck"],
     "demo": "https://www.example.com",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Kpajie Resources",
-    "imageSrc": "projects/kpajie.png",
+    "imageSrc": "projects/lion.png",
     "description": "Company registration, social media setup and digital marketing",
     "skills": ["Business reg.", "Company profile", "Digital marketing"],
     "demo": "https://www.example.com",
